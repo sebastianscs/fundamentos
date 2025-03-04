@@ -456,4 +456,5 @@ of [video courses](https://nickjanetakis.com/courses) on web development and
 deployment topics. I also have a [podcast](https://runninginproduction.com)
 where I talk with folks about running web apps in production.
 #   f u n d a m e n t o s  
+ #   f u n d a m e n t o s  
  
